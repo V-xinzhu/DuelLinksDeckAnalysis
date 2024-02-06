@@ -73,8 +73,8 @@ Duel Links 卡组数据分析项目
 
 根据卡组信息，把相关数据录入
 
-![](\image\recordInfo.png)
 
+<img src="\image\recordInfo.png" alt="recordInfo" style="zoom: 100%;" />
 在vscode 运行代码
 
 得到几个xlsx文件
