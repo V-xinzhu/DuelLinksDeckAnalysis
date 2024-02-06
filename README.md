@@ -94,7 +94,7 @@ Duel Links 卡组数据分析项目
 ### 输出结果
 
 ![](\image\hist.png)
-
+<img src="\image\hist.png" alt="hist" style="zoom: 100%;" />
 横轴为每种组合产生的概率，事实上经过处理后共有*`3512`* 种组合在首回合产生，但只产生了9种不同的概率。
 
 | probability_x | probability_y | Combination_Coefficient |
@@ -114,7 +114,7 @@ Duel Links 卡组数据分析项目
 (由于单个卡牌种类个数只能选择 1 ，2，3。我们很容易可以计算出这三种类型的卡牌组合)
 
 ![](\image\probability_sum.png)
-
+<img src="\image\probability_sum.png" alt="probability_sum" style="zoom: 100%;" />
 上图为通过表格绘制的柱状图。
 
 可以清晰观察到概率集中在 （0.02，0.06）这个区间内
